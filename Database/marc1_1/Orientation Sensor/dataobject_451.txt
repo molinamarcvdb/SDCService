@@ -1,5 +1,0 @@
-Experiment ID: 1
-Data object ID: 451
-Data: [360.0, -90.00002, 1.823187E-5]
-Timestamp: 19813322252900
-

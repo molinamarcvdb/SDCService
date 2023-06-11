@@ -1,7 +1,0 @@
-Experiment ID: 1
-Data object ID: 60
-Device: null
-Sensor ID: Linear Acceleration Sensor
-Data: [9.469255E-5, 0.0033388138, -9.469255E-5]
-Timestamp: 15677884950900
-
