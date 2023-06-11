@@ -52,7 +52,6 @@ public class SDCController {
 		LOG.info("store data for experiment " + experimentId);
 		LOG.info("Received data object: " + dObj.toString());
 		try {
-			String filePath = "file.txt"; // set the file path
 			DataContainer.getInstance().storeData(experimentId, dObj);
 		} catch (Exception ex) {
 			LOG.error("store data for experiment " + experimentId + ": " + ex.getMessage(), ex);

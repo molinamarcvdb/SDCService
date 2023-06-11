@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>ch.fhnw</groupId>
 	<artifactId>sdcservice</artifactId>
-	<version>0.1.0-SNAPSHOT</version>
+	<version>0.0.4</version>
 	<name>sensor-data-collection-service</name>
 	<description>Service to collect data from sensors of android smart phones</description>
 

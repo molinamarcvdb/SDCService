@@ -7,8 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.concurrent.atomic.AtomicLong;
-import java.io.FileNotFoundException;
 import java.io.PrintWriter;
+import java.io.File;
 
 
 import org.slf4j.Logger;
@@ -53,6 +53,16 @@ public class DataContainer {
         return experiments.get(name);
     }
 
+    public String getExperimentName(Long experimentId) {
+        for (Map.Entry<String, Long> entry : experiments.entrySet()) {
+            if (entry.getValue().equals(experimentId)) {
+                return entry.getKey();
+            }
+        }
+        return null; // Return null if no experiment with the given ID is found
+    }
+
+
     public void storeData(Long experimentId, DataObject dObj) throws Exception {
         // check if data object is not null
         if (dObj == null) {
@@ -69,26 +79,47 @@ public class DataContainer {
             throw new Exception(("experiment id " + experimentId + " does not match with data experiment id " + dObj.getExperimentId()));
         }
 
-        List<DataObject> dataObjects = data.get(experimentId);
-        dataObjects.add(dObj);
+        // Get the experiment name
+        String experimentName = getExperimentName(experimentId);
+        if (experimentName == null) {
+            throw new Exception("No experiment found with id " + experimentId);
+        }
 
-        // save the data objects to a file
-        String filename = "experiment_" + experimentId + ".txt";
+        // Create a directory for the experiment if it doesn't exist
+        File DatabaseDirectory = new File("Database");
+        if (!DatabaseDirectory.exists()) {
+            DatabaseDirectory.mkdir();
+        }
+
+        // Create a directory for the experiment if it doesn't exist
+        File experimentDirectory = new File("Database/" + experimentName + "_" + experimentId);
+        if (!experimentDirectory.exists()) {
+            experimentDirectory.mkdir();
+        }
+
+        // Create a directory for the sensor type if it doesn't exist
+        String sensorId = dObj.getSensorId();
+        File sensorDirectory = new File(experimentDirectory, sensorId);
+        if (!sensorDirectory.exists()) {
+            sensorDirectory.mkdir();
+        }
+
+        // save the data object to a file
+        String filename = sensorDirectory.getPath() + "/dataobject_" + dObj.getId() + ".txt";
         try (PrintWriter writer = new PrintWriter(new BufferedWriter(new FileWriter(filename)))) {
             writer.println("Experiment ID: " + experimentId);
-            for (DataObject dataObject : dataObjects) {
-                writer.println("Data object ID: " + dataObject.getId());
-                writer.println("Device: " + dataObject.getDevice());
-                writer.println("Sensor ID: " + dataObject.getSensorId());
-                writer.println("Data: " + dataObject.getData());
-                writer.println("Timestamp: " + dataObject.getTimestamp());
-                writer.println();
-            }
+            writer.println("Data object ID: " + dObj.getId());
+            writer.println("Data: " + dObj.getData());
+            writer.println("Timestamp: " + dObj.getTimestamp());
+            writer.println();
             System.out.println("File created: " + filename);
         } catch (IOException e) {
             System.out.println("Error creating file: " + e.getMessage());
         }
     }
+
+
+
 
 
     public List<DataObject> getData(Long experimentId) {
