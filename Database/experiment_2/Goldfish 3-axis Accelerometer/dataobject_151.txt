@@ -1,0 +1,7 @@
+Experiment ID: 2
+Data object ID: 151
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 18887967632900
+

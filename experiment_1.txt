@@ -1,0 +1,3061 @@
+Experiment ID: 1
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560714422900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559847751900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558247743900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559514416900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559714417900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560114419900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11557914408900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560914423900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560181086900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11557847741900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558781079900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558914413900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558514411900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558714412900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559647750900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559381082900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559047747900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560381087900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560647755900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558114409900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11557981075900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560247753900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559781084900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559914418900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560781089900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560447754900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560514421900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560847756900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560314420900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560047752900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559314415900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558181076900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558647745900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559247748900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559447749900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561047757900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558581078900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558447744900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559114414900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559981085900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558314410900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561447759900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558847746900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560581088900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558047742900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558381077900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561647760900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561714427900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561781094900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561914428900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562047762900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562114429900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562181096900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562314430900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562381097900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562581098900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559181081900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11559581083900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11558981080900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561114424900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11560981090900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561181091900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561514426900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561381092900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561314425900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561581093900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561247758900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561847761900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11561981095900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562247763900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562447764900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11562514431900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 11857435903900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771973, 0.0, 0.0, 0.7358015, 0.0]
+Timestamp: 13080545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771957, 1.8993595E-7, -2.4446467E-6, 0.735803, 0.0]
+Timestamp: 13080645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771964, -2.4027355E-7, -1.8962643E-6, 0.7358023, 0.0]
+Timestamp: 13080595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719424, 7.249022E-7, -2.7226984E-6, 0.7358043, 0.0]
+Timestamp: 13080795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719364, 7.664479E-7, -2.7405724E-6, 0.7358049, 0.0]
+Timestamp: 13080895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719465, 6.5740437E-7, -2.6923112E-6, 0.73580396, 0.0]
+Timestamp: 13080745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719513, 5.0599726E-7, -2.6191851E-6, 0.73580354, 0.0]
+Timestamp: 13080695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771939, 7.5405046E-7, -2.735314E-6, 0.7358046, 0.0]
+Timestamp: 13080845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771934, 7.716832E-7, -2.7427704E-6, 0.7358051, 0.0]
+Timestamp: 13080945349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13080995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771931, 7.748092E-7, -2.7440778E-6, 0.7358054, 0.0]
+Timestamp: 13081045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771932, 7.7388495E-7, -2.743692E-6, 0.7358052, 0.0]
+Timestamp: 13080995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.677193, 7.751961E-7, -2.744239E-6, 0.7358055, 0.0]
+Timestamp: 13081095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719287, 7.7535697E-7, -2.7443061E-6, 0.7358056, 0.0]
+Timestamp: 13081145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771928, 7.754229E-7, -2.744334E-6, 0.7358057, 0.0]
+Timestamp: 13081195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719275, 7.754495E-7, -2.7443443E-6, 0.73580575, 0.0]
+Timestamp: 13081245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719257, 7.75461E-7, -2.7443489E-6, 0.73580587, 0.0]
+Timestamp: 13081445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67719257, 7.7546235E-7, -2.7443493E-6, 0.7358058, 0.0]
+Timestamp: 13081395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.7545985E-7, -2.7443475E-6, 0.73580587, 0.0]
+Timestamp: 13081495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771926, 7.754621E-7, -2.7443493E-6, 0.7358058, 0.0]
+Timestamp: 13081345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771927, 7.754593E-7, -2.744348E-6, 0.7358058, 0.0]
+Timestamp: 13081295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.75457E-7, -2.7443457E-6, 0.73580587, 0.0]
+Timestamp: 13081595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754584E-7, -2.7443468E-6, 0.73580587, 0.0]
+Timestamp: 13081545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754554E-7, -2.7443443E-6, 0.73580587, 0.0]
+Timestamp: 13081645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754538E-7, -2.744343E-6, 0.73580587, 0.0]
+Timestamp: 13081695349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.7545224E-7, -2.744342E-6, 0.73580587, 0.0]
+Timestamp: 13081745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754511E-7, -2.7443411E-6, 0.73580587, 0.0]
+Timestamp: 13081795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754495E-7, -2.7443398E-6, 0.73580587, 0.0]
+Timestamp: 13081845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.754479E-7, -2.744339E-6, 0.73580587, 0.0]
+Timestamp: 13081895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.776321, 0.812345]
+Timestamp: 13081945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6771925, 7.7544655E-7, -2.744338E-6, 0.73580587, 0.0]
+Timestamp: 13081945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.66988784, -0.10604317, 0.14007334, 0.7213768, 0.0]
+Timestamp: 13081995349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6145885, -0.28803158, 0.3572853, 0.64161205, 0.0]
+Timestamp: 13082095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5816685, -0.35506332, 0.41497296, 0.6028178, 0.0]
+Timestamp: 13082145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4817321, -0.48351732, 0.5456257, 0.48624855, 0.0]
+Timestamp: 13082245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6475675, -0.19960165, 0.26978576, 0.6841281, 0.0]
+Timestamp: 13082045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13081995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13082295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.554678, -0.40180856, 0.45082554, 0.5723972, 0.0]
+Timestamp: 13082195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.39801475, -0.5511637, 0.6296178, 0.37601098, 0.0]
+Timestamp: 13082295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13082345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13082245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.30315766, -0.6071844, 0.68194085, 0.2727257, 0.0]
+Timestamp: 13082345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13082395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13082445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.117602356, -0.6649677, 0.7327625, 0.083944745, 0.0]
+Timestamp: 13082445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.21731791, -0.64417887, 0.70930856, 0.18624689, 0.0]
+Timestamp: 13082395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13082495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [-0.010849716, 0.6711899, -0.7398011, 0.045613263, 0.0]
+Timestamp: 13082495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13082595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13082545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.10433592, 0.6605689, -0.72283584, 0.17398603, 0.0]
+Timestamp: 13082545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.2108408, 0.63471717, -0.6865418, 0.2852024, 0.0]
+Timestamp: 13082595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13082645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.28496206, 0.59729016, -0.6574322, 0.36031088, 0.0]
+Timestamp: 13082645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13082695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.36441517, 0.54486036, -0.6035077, 0.45399037, 0.0]
+Timestamp: 13082695349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13082745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4464006, 0.4740373, -0.5212182, 0.5516763, 0.0]
+Timestamp: 13082745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13082795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5375675, 0.3445086, -0.38315463, 0.6674786, 0.0]
+Timestamp: 13082845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5216124, 0.3874683, -0.41660842, 0.6357879, 0.0]
+Timestamp: 13082795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5581677, 0.2849772, -0.3383842, 0.7019493, 0.0]
+Timestamp: 13082895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.57572883, 0.21562535, -0.26339388, 0.7434148, 0.0]
+Timestamp: 13082945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.59081084, 0.12947229, -0.15973684, 0.780169, 0.0]
+Timestamp: 13082995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13082995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.59907335, 0.028292721, -0.029733514, 0.7996415, 0.0]
+Timestamp: 13083045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5957724, -0.07937425, 0.112931184, 0.7912026, 0.0]
+Timestamp: 13083095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5805148, -0.18098961, 0.24520324, 0.75506335, 0.0]
+Timestamp: 13083145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5387082, -0.33153847, 0.41852757, 0.651698, 0.0]
+Timestamp: 13083245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5592982, -0.26626796, 0.34863767, 0.70337665, 0.0]
+Timestamp: 13083195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.5219531, -0.37895098, 0.4608975, 0.6095364, 0.0]
+Timestamp: 13083295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13083345349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.58732784, -0.28611282, 0.3543412, 0.6690499, 0.0]
+Timestamp: 13083345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13083395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6190525, -0.225798, 0.22886133, 0.7165275, 0.0]
+Timestamp: 13083395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13083445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.66251755, -0.10978882, 0.09593857, 0.73471946, 0.0]
+Timestamp: 13083495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13083495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6455097, -0.16062242, 0.14914413, 0.73162407, 0.0]
+Timestamp: 13083445349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13083545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6696855, 0.0038063352, -0.025874704, 0.74218434, 0.0]
+Timestamp: 13083545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13083595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6599024, 0.104850255, -0.16968791, 0.72439027, 0.0]
+Timestamp: 13083595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13083645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.63477105, 0.20939933, -0.28321663, 0.68775433, 0.0]
+Timestamp: 13083645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [-9.809989, 0.0, 0.0]
+Timestamp: 13083695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.54639816, 0.38124844, -0.45516935, 0.59069395, 0.0]
+Timestamp: 13083745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6024573, 0.2957947, -0.36689287, 0.6441587, 0.0]
+Timestamp: 13083695349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13083745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4769572, 0.4596851, -0.5550815, 0.5030765, 0.0]
+Timestamp: 13083795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13083795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13083845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.3888879, 0.53390247, -0.63636297, 0.39844254, 0.0]
+Timestamp: 13083845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, -9.809989, 0.0]
+Timestamp: 13083895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.21976423, 0.6156427, -0.7255082, 0.21523358, 0.0]
+Timestamp: 13083945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.29618818, 0.5915463, -0.69096977, 0.29138675, 0.0]
+Timestamp: 13083895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.12619747, 0.6344864, -0.75428927, 0.11202127, 0.0]
+Timestamp: 13083995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13083995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [-0.019672284, -0.64235586, 0.76600176, 0.015271568, 0.0]
+Timestamp: 13084045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.09255843, -0.635176, 0.75214744, 0.14919373, 0.0]
+Timestamp: 13084095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.19721472, -0.6139808, 0.71539736, 0.26896188, 0.0]
+Timestamp: 13084145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.2834654, -0.5861202, 0.6680834, 0.36024296, 0.0]
+Timestamp: 13084195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.34805435, -0.55932, 0.6234193, 0.4211506, 0.0]
+Timestamp: 13084245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.3938046, -0.53764254, 0.5880462, 0.45832318, 0.0]
+Timestamp: 13084295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084345349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4254407, -0.5219029, 0.56240433, 0.4799155, 0.0]
+Timestamp: 13084345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.447188, -0.5112847, 0.54448205, 0.49208748, 0.0]
+Timestamp: 13084395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4621828, -0.5045218, 0.53207505, 0.49873945, 0.0]
+Timestamp: 13084445349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4725959, -0.5004493, 0.5234551, 0.5021936, 0.0]
+Timestamp: 13084495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.47989458, -0.49816373, 0.51740503, 0.5038116, 0.0]
+Timestamp: 13084545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.48506442, -0.49701965, 0.51310146, 0.50439173, 0.0]
+Timestamp: 13084595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.48876825, -0.49657747, 0.5099939, 0.5044033, 0.0]
+Timestamp: 13084645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49145415, -0.49654752, 0.50771534, 0.50412166, 0.0]
+Timestamp: 13084695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4934263, -0.49674428, 0.5060192, 0.5037066, 0.0]
+Timestamp: 13084745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49599662, -0.49740037, 0.5037589, 0.50279933, 0.0]
+Timestamp: 13084845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49683744, -0.49774936, 0.5030008, 0.50238264, 0.0]
+Timestamp: 13084895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49489275, -0.49705186, 0.50473857, 0.50324917, 0.0]
+Timestamp: 13084795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49748498, -0.4980769, 0.50240815, 0.5020101, 0.0]
+Timestamp: 13084945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49798867, -0.49837255, 0.5019408, 0.50168484, 0.0]
+Timestamp: 13084995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13084995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4983839, -0.49863264, 0.5015693, 0.50140524, 0.0]
+Timestamp: 13085045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.4986965, -0.4988574, 0.5012724, 0.50116765, 0.0]
+Timestamp: 13085095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49894536, -0.49904928, 0.5010339, 0.5009675, 0.0]
+Timestamp: 13085145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49914458, -0.49921158, 0.5008414, 0.50079983, 0.0]
+Timestamp: 13085195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [9.809989, 0.0, 0.0]
+Timestamp: 13085295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49943423, -0.49946165, 0.50055903, 0.5005439, 0.0]
+Timestamp: 13085295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.55372155, -0.43375847, 0.37840456, 0.601711, 0.0]
+Timestamp: 13085345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.49930483, -0.49934784, 0.50068545, 0.50066006, 0.0]
+Timestamp: 13085245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6123482, -0.33739927, 0.27630845, 0.6594277, 0.0]
+Timestamp: 13085395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085445349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6524665, -0.24428895, 0.19081083, 0.69152135, 0.0]
+Timestamp: 13085445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.67550814, -0.16852665, 0.12672071, 0.70656157, 0.0]
+Timestamp: 13085495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.687722, -0.11297635, 0.082548924, 0.71236247, 0.0]
+Timestamp: 13085545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.69418794, -0.074594334, 0.053369656, 0.71392614, 0.0]
+Timestamp: 13085595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.6978184, -0.048875917, 0.034424886, 0.7137756, 0.0]
+Timestamp: 13085645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70005167, -0.03189944, 0.02219854, 0.7130339, 0.0]
+Timestamp: 13085695349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7015604, -0.020775206, 0.014320228, 0.7121632, 0.0]
+Timestamp: 13085745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7026593, -0.013513063, 0.009243228, 0.7113381, 0.0]
+Timestamp: 13085795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70350164, -0.008782035, 0.005969462, 0.7106143, 0.0]
+Timestamp: 13085845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7041673, -0.0057038763, 0.003856934, 0.7100007, 0.0]
+Timestamp: 13085895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7047026, -0.0037028557, 0.0024928113, 0.7094888, 0.0]
+Timestamp: 13085945349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13085995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70513713, -0.0024028677, 0.0016114266, 0.709065, 0.0]
+Timestamp: 13085995349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70549166, -0.0015587222, 0.0010416581, 0.7087158, 0.0]
+Timestamp: 13086045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7057816, -0.0010107858, 6.7317655E-4, 0.7084285, 0.0]
+Timestamp: 13086095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7060191, -6.552281E-4, 4.3478733E-4, 0.7081925, 0.0]
+Timestamp: 13086145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70621365, -4.2456284E-4, 2.8051657E-4, 0.70799863, 0.0]
+Timestamp: 13086195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7065042, -1.779273E-4, 1.160077E-4, 0.70770884, 0.0]
+Timestamp: 13086295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7063733, -2.7495102E-4, 1.8065816E-4, 0.7078394, 0.0]
+Timestamp: 13086245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086345349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70661163, -1.15015595E-4, 7.4144846E-5, 0.70760167, 0.0]
+Timestamp: 13086345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7066997, -7.4227166E-5, 4.7033933E-5, 0.7075137, 0.0]
+Timestamp: 13086395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70677197, -4.7784597E-5, 2.9474653E-5, 0.7074415, 0.0]
+Timestamp: 13086445349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7068313, -3.06435E-5, 1.8100778E-5, 0.70738226, 0.0]
+Timestamp: 13086495349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7068799, -1.9532621E-5, 1.0732897E-5, 0.7073337, 0.0]
+Timestamp: 13086545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7069198, -1.233087E-5, 5.9597664E-6, 0.70729375, 0.0]
+Timestamp: 13086595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7069525, -7.663077E-6, 2.8674385E-6, 0.707261, 0.0]
+Timestamp: 13086645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7069794, -4.637741E-6, 8.6395414E-7, 0.70723414, 0.0]
+Timestamp: 13086695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70700145, -2.6769694E-6, -4.341262E-7, 0.7072121, 0.0]
+Timestamp: 13086745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070195, -1.4061754E-6, -1.2751906E-6, 0.70719403, 0.0]
+Timestamp: 13086795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70703435, -5.825666E-7, -1.8201541E-6, 0.7071792, 0.0]
+Timestamp: 13086845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070465, -4.8779782E-8, -2.1732676E-6, 0.707167, 0.0]
+Timestamp: 13086895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070565, 2.971746E-7, -2.4020744E-6, 0.707157, 0.0]
+Timestamp: 13086945349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13086995349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070647, 5.2139615E-7, -2.5503361E-6, 0.70714885, 0.0]
+Timestamp: 13086995349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070715, 6.667231E-7, -2.6464086E-6, 0.7071422, 0.0]
+Timestamp: 13087045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70707697, 7.6091976E-7, -2.7086621E-6, 0.7071367, 0.0]
+Timestamp: 13087095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070815, 8.2197755E-7, -2.749003E-6, 0.70713216, 0.0]
+Timestamp: 13087145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070852, 8.615574E-7, -2.7751444E-6, 0.70712847, 0.0]
+Timestamp: 13087195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70708823, 8.8721697E-7, -2.792084E-6, 0.7071254, 0.0]
+Timestamp: 13087245349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709074, 9.0385333E-7, -2.8030613E-6, 0.7071229, 0.0]
+Timestamp: 13087295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709276, 9.146414E-7, -2.810175E-6, 0.7071209, 0.0]
+Timestamp: 13087345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709443, 9.216376E-7, -2.8147847E-6, 0.7071192, 0.0]
+Timestamp: 13087395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070958, 9.2617654E-7, -2.817772E-6, 0.70711786, 0.0]
+Timestamp: 13087445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709693, 9.291209E-7, -2.8197076E-6, 0.7071167, 0.0]
+Timestamp: 13087495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070979, 9.310321E-7, -2.8209615E-6, 0.70711577, 0.0]
+Timestamp: 13087545349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709866, 9.3227277E-7, -2.8217742E-6, 0.707115, 0.0]
+Timestamp: 13087595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70709926, 9.330789E-7, -2.8223E-6, 0.7071144, 0.0]
+Timestamp: 13087645349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7070998, 9.3360234E-7, -2.822641E-6, 0.70711386, 0.0]
+Timestamp: 13087695349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071006, 9.3416406E-7, -2.8230043E-6, 0.7071131, 0.0]
+Timestamp: 13087795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071002, 9.3394294E-7, -2.8228615E-6, 0.70711344, 0.0]
+Timestamp: 13087745349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70710087, 9.343082E-7, -2.823096E-6, 0.7071128, 0.0]
+Timestamp: 13087845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071011, 9.34402E-7, -2.8231552E-6, 0.70711255, 0.0]
+Timestamp: 13087895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087895349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071013, 9.3446295E-7, -2.8231937E-6, 0.7071124, 0.0]
+Timestamp: 13087945349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70710146, 9.345026E-7, -2.823218E-6, 0.7071122, 0.0]
+Timestamp: 13087995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13087995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071016, 9.3452854E-7, -2.8232334E-6, 0.7071121, 0.0]
+Timestamp: 13088045349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088095349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071017, 9.345447E-7, -2.823243E-6, 0.70711195, 0.0]
+Timestamp: 13088095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088145349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70710176, 9.345557E-7, -2.8232487E-6, 0.7071119, 0.0]
+Timestamp: 13088145349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088195349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071018, 9.3456185E-7, -2.823252E-6, 0.70711184, 0.0]
+Timestamp: 13088195349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088295349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.70710194, 9.3456754E-7, -2.8232544E-6, 0.7071117, 0.0]
+Timestamp: 13088295349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088345349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345689E-7, -2.8232544E-6, 0.70711166, 0.0]
+Timestamp: 13088345349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088395349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345697E-7, -2.823254E-6, 0.70711166, 0.0]
+Timestamp: 13088395349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3456913E-7, -2.8232535E-6, 0.70711166, 0.0]
+Timestamp: 13088445349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3456845E-7, -2.8232528E-6, 0.70711166, 0.0]
+Timestamp: 13088495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088495349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3456765E-7, -2.8232519E-6, 0.70711166, 0.0]
+Timestamp: 13088545349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345649E-7, -2.8232496E-6, 0.70711166, 0.0]
+Timestamp: 13088645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088645349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088595349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345662E-7, -2.823251E-6, 0.70711166, 0.0]
+Timestamp: 13088595349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3456356E-7, -2.8232487E-6, 0.70711166, 0.0]
+Timestamp: 13088695349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.7071019, 9.345656E-7, -2.823254E-6, 0.7071118, 0.0]
+Timestamp: 13088245349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3456197E-7, -2.8232475E-6, 0.70711166, 0.0]
+Timestamp: 13088745349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345606E-7, -2.8232462E-6, 0.70711166, 0.0]
+Timestamp: 13088795349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088795349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3455924E-7, -2.8232453E-6, 0.70711166, 0.0]
+Timestamp: 13088845349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088845349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345579E-7, -2.823244E-6, 0.70711166, 0.0]
+Timestamp: 13088895349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088945349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345565E-7, -2.8232425E-6, 0.70711166, 0.0]
+Timestamp: 13088945349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13088995349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13089045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.3455526E-7, -2.8232414E-6, 0.70711166, 0.0]
+Timestamp: 13088995349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345538E-7, -2.8232403E-6, 0.70711166, 0.0]
+Timestamp: 13089045349900
+
+Data object ID: null
+Device: null
+Sensor ID: GeoMag Rotation Vector Sensor
+Data: [0.707102, 9.345524E-7, -2.823239E-6, 0.70711166, 0.0]
+Timestamp: 13089095349900
+
+Data object ID: null
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13089095349900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13492784031900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493050699900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493117366900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493450701900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493250700900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493384034900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13492917365900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493517368900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13492984032900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13492850698900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493717369900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493184033900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493650702900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493317367900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493784036900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493850703900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493584035900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493984037900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13493917370900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494050704900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494184038900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494117371900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494250705900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494317372900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494517373900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494450706900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494584040900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494384039900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494984042900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494850708900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494650707900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495250710900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495050709900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494784041900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494917375900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13494717374900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495117376900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495450711900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495384044900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495317377900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495517378900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495184043900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495584045900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495650712900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495717379900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495784046900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495850713900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495917380900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13495984047900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496050714900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496117381900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496184048900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496250715900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496317382900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496384049900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496450716900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496584050900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496517383900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496650717900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496717384900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13496784051900
+
+Data object ID: 0
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711518458900
+
+Data object ID: 2
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711651792900
+
+Data object ID: 3
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711718459900
+
+Data object ID: 1
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711585125900
+
+Data object ID: 5
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711851793900
+
+Data object ID: 6
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711918460900
+
+Data object ID: 8
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712051794900
+
+Data object ID: 4
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711785126900
+
+Data object ID: 7
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13711985127900
+
+Data object ID: 9
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712118461900
+
+Data object ID: 11
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712251795900
+
+Data object ID: 13
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712385129900
+
+Data object ID: 14
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712451796900
+
+Data object ID: 10
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712185128900
+
+Data object ID: 12
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712318462900
+
+Data object ID: 8
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712051794900
+
+Data object ID: 19
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712785131900
+
+Data object ID: 17
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712651797900
+
+Data object ID: 18
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712718464900
+
+Data object ID: 20
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712851798900
+
+Data object ID: 15
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712518463900
+
+Data object ID: 16
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712585130900
+
+Data object ID: 21
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712918465900
+
+Data object ID: 23
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713051799900
+
+Data object ID: 22
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13712985132900
+
+Data object ID: 24
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713118466900
+
+Data object ID: 25
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713185133900
+
+Data object ID: 26
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713251800900
+
+Data object ID: 27
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713318467900
+
+Data object ID: 28
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713385134900
+
+Data object ID: 29
+Device: null
+Sensor ID: Goldfish 3-axis Accelerometer
+Data: [0.0, 9.809989, 0.0]
+Timestamp: 13713451801900
+
