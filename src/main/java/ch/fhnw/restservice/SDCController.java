@@ -1,32 +1,31 @@
+// Import necessary libraries
 package ch.fhnw.restservice;
-
 import java.util.List;
 import java.util.concurrent.atomic.AtomicLong;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
-import java.io.FileReader;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.lang.reflect.Type;
-
+// Declare the class as a REST Controller
 @RestController
 public class SDCController {
 
+	// Define a template for greeting message and a counter for the number of greetings
 	private static final String template = "Hello, %s!";
 	private final AtomicLong counter = new AtomicLong();
 
+	// Define a logger for this class
 	private static final Logger LOG = LoggerFactory.getLogger(SDCController.class);
 
+	// Define a GET endpoint for greeting
 	@GetMapping("/greeting")
 	public Greeting greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
 		return new Greeting(counter.incrementAndGet(), String.format(template, name));
 	}
 
+	// Define a POST endpoint for creating a new experiment
 	@PostMapping("/experiment")
 	public Boolean createExperiment(@RequestParam(value = "name") String name) {
 		Boolean result = DataContainer.getInstance().createExperiment(name);
@@ -34,6 +33,7 @@ public class SDCController {
 		return result;
 	}
 
+	// Define a GET endpoint for retrieving an experiment ID
 	@GetMapping("/experiment")
 	public Long getExperimentId(@RequestParam(value = "name") String name) {
 		Long id = DataContainer.getInstance().getExperimentId(name);
@@ -41,12 +41,14 @@ public class SDCController {
 		return id;
 	}
 
+	// Define a GET endpoint for retrieving data of an experiment
 	@GetMapping("/data")
 	public List<DataObject> getData(@RequestParam(value = "experimentid") Long experimentId) {
 		List<DataObject> result = DataContainer.getInstance().getData(experimentId);
 		return result;
 	}
 
+	// Define a POST endpoint for storing data of an experiment
 	@PostMapping("/data")
 	public void storeData(@RequestParam(value = "experimentid") Long experimentId, @RequestBody DataObject dObj) {
 		LOG.info("store data for experiment " + experimentId);
@@ -59,6 +61,7 @@ public class SDCController {
 		}
 	}
 
+	// Define a POST endpoint for deleting an experiment
 	@PostMapping("/delete")
 	public void deleteExperiment(@RequestParam(value = "experimentid") Long experimentId) {
 		LOG.info("delete experiment " + experimentId);
@@ -73,5 +76,4 @@ public class SDCController {
 		}
 	}
 }
-
 
