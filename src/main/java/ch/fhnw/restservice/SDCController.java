@@ -8,24 +8,49 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
-// Declare the class as a REST Controller
+/**
+
+ The controller class for the SDC (Sensor Data Collector) REST service.
+ This class handles various endpoints for interacting with experiments and data.
+ */
 @RestController
 public class SDCController {
 
-	// Define a template for greeting message and a counter for the number of greetings
+	/**
+
+	 The template for greeting messages.
+	 */
 	private static final String template = "Hello, %s!";
+
+	/**
+
+	 The counter for the number of greetings.
+	 */
 	private final AtomicLong counter = new AtomicLong();
 
-	// Define a logger for this class
+	/**
+
+	 The logger for this class.
+	 */
 	private static final Logger LOG = LoggerFactory.getLogger(SDCController.class);
 
-	// Define a GET endpoint for greeting
+	/**
+
+	 Retrieves a greeting message.
+	 @param name The name to include in the greeting message.
+	 @return A greeting object.
+	 */
 	@GetMapping("/greeting")
 	public Greeting greeting(@RequestParam(value = "name", defaultValue = "World") String name) {
 		return new Greeting(counter.incrementAndGet(), String.format(template, name));
 	}
 
-	// Define a POST endpoint for creating a new experiment
+	/**
+
+	 Creates a new experiment.
+	 @param name The name of the experiment.
+	 @return The result of the creation operation.
+	 */
 	@PostMapping("/experiment")
 	public Boolean createExperiment(@RequestParam(value = "name") String name) {
 		Boolean result = DataContainer.getInstance().createExperiment(name);
@@ -33,7 +58,12 @@ public class SDCController {
 		return result;
 	}
 
-	// Define a GET endpoint for retrieving an experiment ID
+	/**
+
+	 Retrieves the ID of an experiment.
+	 @param name The name of the experiment.
+	 @return The ID of the experiment.
+	 */
 	@GetMapping("/experiment")
 	public Long getExperimentId(@RequestParam(value = "name") String name) {
 		Long id = DataContainer.getInstance().getExperimentId(name);
@@ -41,14 +71,24 @@ public class SDCController {
 		return id;
 	}
 
-	// Define a GET endpoint for retrieving data of an experiment
+	/**
+
+	 Retrieves data of an experiment.
+	 @param experimentId The ID of the experiment.
+	 @return A list of data objects.
+	 */
 	@GetMapping("/data")
 	public List<DataObject> getData(@RequestParam(value = "experimentid") Long experimentId) {
 		List<DataObject> result = DataContainer.getInstance().getData(experimentId);
 		return result;
 	}
 
-	// Define a POST endpoint for storing data of an experiment
+	/**
+
+	 Stores data for an experiment.
+	 @param experimentId The ID of the experiment.
+	 @param dObj The data object to store.
+	 */
 	@PostMapping("/data")
 	public void storeData(@RequestParam(value = "experimentid") Long experimentId, @RequestBody DataObject dObj) {
 		LOG.info("store data for experiment " + experimentId);
@@ -61,7 +101,11 @@ public class SDCController {
 		}
 	}
 
-	// Define a POST endpoint for deleting an experiment
+	/**
+
+	 Deletes an experiment.
+	 @param experimentId The ID of the experiment to delete.
+	 */
 	@PostMapping("/delete")
 	public void deleteExperiment(@RequestParam(value = "experimentid") Long experimentId) {
 		LOG.info("delete experiment " + experimentId);

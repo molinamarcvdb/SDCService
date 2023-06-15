@@ -15,6 +15,10 @@ import java.io.File;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+/**
+
+ A container class for storing experimental data.
+ */
 public class DataContainer {
     // Logger for logging messages
     private static final Logger LOG = LoggerFactory.getLogger(DataContainer.class);
@@ -31,7 +35,10 @@ public class DataContainer {
     // Map to store experiment IDs and their associated data objects
     private Map<Long, List<DataObject>> data = new HashMap<>();
 
-    // Getter method to retrieve the singleton instance of DataContainer
+    /**
+     Retrieves the single instance of DataContainer.
+     @return The single instance of DataContainer.
+     */
     public static DataContainer getInstance() {
         if (instance == null) {
             instance = new DataContainer();
@@ -39,11 +46,20 @@ public class DataContainer {
         return instance;
     }
 
-    // Private constructor to enforce singleton pattern
+    /**
+     Private constructor to enforce the single pattern.
+     */
     private DataContainer() {
     }
 
-    // Method to create a new experiment
+    /**
+
+     Creates a new experiment with the specified name.
+
+     @param name The name of the experiment.
+
+     @return {@code true} if the experiment is created successfully, {@code false} otherwise.
+     */
     public Boolean createExperiment(String name) {
         // Check if the experiment already exists
         Long identifier = experiments.get(name);
@@ -67,12 +83,22 @@ public class DataContainer {
         return false;
     }
 
-    // Method to retrieve the experiment ID given the experiment name
+    /**
+
+     Retrieves the experiment ID given the experiment name.
+     @param name The name of the experiment.
+     @return The ID of the experiment, or {@code null} if not found.
+     */
     public Long getExperimentId(String name) {
         return experiments.get(name);
     }
 
-    // Method to retrieve the experiment name given the experiment ID
+    /**
+
+     Retrieves the experiment name given the experiment ID.
+     @param experimentId The ID of the experiment.
+     @return The name of the experiment, or {@code null} if not found.
+     */
     public String getExperimentName(Long experimentId) {
         for (Map.Entry<String, Long> entry : experiments.entrySet()) {
             if (entry.getValue().equals(experimentId)) {
@@ -82,7 +108,15 @@ public class DataContainer {
         return null;
     }
 
-    // Method to store data for a specific experiment
+    /**
+
+     Stores the data object for a specific experiment.
+     @param experimentId The ID of the experiment.
+     @param dObj The data object to store.
+     @throws Exception If the provided data object is null, the experiment ID does not exist,
+     or the experiment ID does not match with the data object's experiment ID.
+
+     */
     public void storeData(Long experimentId, DataObject dObj) throws Exception {
         // Check if the data object is null
         if (dObj == null) {
@@ -140,12 +174,22 @@ public class DataContainer {
         }
     }
 
-    // Method to retrieve the data objects for a specific experiment
+    /**
+     * Retrieves the data objects for a specific experiment.
+     *
+     * @param experimentId The ID of the experiment.
+     * @return The list of data objects associated with the experiment.
+     */
     public List<DataObject> getData(Long experimentId) {
         return data.get(experimentId);
     }
 
-    // Method to delete an experiment given its ID
+    /**
+     * Deletes an experiment given its ID.
+     *
+     * @param experimentId The ID of the experiment to delete.
+     * @return {@code true} if the experiment is deleted successfully, {@code false} otherwise.
+     */
     public boolean deleteExperiment(Long experimentId) {
         if (experimentId == null) {
             return false;
