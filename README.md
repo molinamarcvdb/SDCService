@@ -1,12 +1,19 @@
 # Experiment Data Management Service
 
-This is a Java-based RESTful API service for managing experiments and their data. The service is built using Spring Boot and is designed to collect data from an Android app.
+This is a Java-based RESTful API service for managing experiments and their data. The service is built using Spring Boot and is designed to collect patient digital biomarker data from an Android application that is utilising a sensors in the phone.
+ 
+## Features:
+- Creation of an experiment 
+- Get an experiment ID
+- Delete experiments
+- Store data 
 
-## Features
-
-- Create and delete experiments
-- Retrieve an experiment's ID
-- Get or store data for an experiment
+Communication with REST to:
+- Create experiments and get its Id
+- Generate unique data objects
+- Send each data object in JSON
+- Retrieve data
+- Get all experiements ids/names
 
 ## Getting Started
 
